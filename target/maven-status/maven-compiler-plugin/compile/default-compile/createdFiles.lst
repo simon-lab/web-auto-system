@@ -1,0 +1,6 @@
+com\saimen\pages\remoteQR\merchantDesc.class
+com\saimen\AbstractPage.class
+com\saimen\pages\remoteQR\merchant.class
+com\saimen\pages\remoteQR\loginPage.class
+com\saimen\pages\remoteQR\oprHomePage.class
+com\saimen\TestListener.class

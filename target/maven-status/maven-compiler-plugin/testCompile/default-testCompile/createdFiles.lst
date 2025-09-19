@@ -1,0 +1,4 @@
+tests\remoteQR\model\qrMerchantTestData.class
+util\ResourceLoader.class
+tests\remoteQR\RemoteQRTest.class
+util\JsonUtil.class

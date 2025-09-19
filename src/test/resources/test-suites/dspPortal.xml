@@ -1,0 +1,9 @@
+<suite name="Web Testing">
+    <test name="DSP Portal Test">
+        <parameter name="testDataPath" value="test-data/dspPortal/testDataQrMerchant.json" />
+        <classes>
+            <class name="tests.remoteQR.RemoteQRTest">
+            </class>
+        </classes>
+    </test>
+</suite>

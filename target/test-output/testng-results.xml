@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-19T17:02:28 WIB" name="Web Testing" finished-at="2025-09-19T17:03:39 WIB" duration-ms="71777">
+    <groups>
+    </groups>
+    <test started-at="2025-09-19T17:02:28 WIB" name="DSP Portal Test" finished-at="2025-09-19T17:03:39 WIB" duration-ms="71777">
+      <class name="tests.remoteQR.RemoteQRTest">
+        <test-method is-config="true" signature="setEnvironment(java.lang.String)[pri:0, instance:tests.remoteQR.RemoteQRTest@61c4eee0]" started-at="2025-09-19T17:02:28 WIB" name="setEnvironment" finished-at="2025-09-19T17:02:42 WIB" duration-ms="14815" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-data/dspPortal/testDataQrMerchant.json]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnvironment -->
+        <test-method signature="mainProgram()[pri:0, instance:tests.remoteQR.RemoteQRTest@61c4eee0]" started-at="2025-09-19T17:02:42 WIB" name="mainProgram" finished-at="2025-09-19T17:03:39 WIB" duration-ms="56819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainProgram -->
+      </class> <!-- tests.remoteQR.RemoteQRTest -->
+    </test> <!-- DSP Portal Test -->
+  </suite> <!-- Web Testing -->
+</testng-results>

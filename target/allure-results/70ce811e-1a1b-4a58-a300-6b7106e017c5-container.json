@@ -1,0 +1,1 @@
+{"uuid":"70ce811e-1a1b-4a58-a300-6b7106e017c5","name":"tests.remoteQR.RemoteQRTest","children":["77acc9cf-aee3-4ccc-be91-d72aff88c37a"],"befores":[{"name":"setEnvironment","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1758276148096,"stop":1758276162897}],"afters":[],"start":1758276148059,"stop":1758276219863}
